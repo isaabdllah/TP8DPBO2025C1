@@ -49,3 +49,4 @@ Dengan konsep ini, kode menjadi lebih terstruktur, mudah dikembangkan, dan dipel
 
 ## Dokumentasi Penggunaan
 ![alt text](dokumTP8.gif)
+Dokumentasi
